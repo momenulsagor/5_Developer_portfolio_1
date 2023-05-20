@@ -288,6 +288,7 @@ main{
     font-weight: 400;
     font-size: 16px;
     color: #474747;
+    margin-bottom: 20px;
 }
 
 .name{
@@ -297,9 +298,7 @@ main{
 .email{
     margin-bottom: 20px;
 }
-.message{
 
-}
 
 .contact_section input {
     margin-bottom: 24px;
